@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ethleo
+- 👋 Hi, I’m Burhan Ali Khan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Mern Stack
 - 📫 How to reach me ... burhank031@gmail.com or +91 7006316162
